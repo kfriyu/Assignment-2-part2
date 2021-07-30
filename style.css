@@ -1,0 +1,25 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0%;
+}
+.sec1{
+    display: flex;
+    background-image: url(photos/Frame\ 58.jpg);
+    width: 100%;
+    background-repeat: no-repeat;
+
+}
+.sec1div1{
+    text-align: center;
+    padding-left:60px;
+    width: 80%;
+    padding-top: 40px;
+    
+}
+.sec1div2 img{
+    width: 50%;
+    padding-left: 200px;
+}
+.sec1div1 h1{
+ font-weight: bold
+}
